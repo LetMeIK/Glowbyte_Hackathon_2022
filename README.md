@@ -3,4 +3,4 @@ Glowbyte_Hackathon_2022
 
 DESCRIPTION IN PROGRESS, SORRY
 
-Watch desc in PDF file
+Watch desc in last (PDF) file
